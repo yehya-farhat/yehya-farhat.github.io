@@ -17,6 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
 I'm a Syracuse University graduate with an M.S. in Computer Science. My research interests are in combinatorial optimization and machine learning. I'm mainly interested applying machine learning models to help solve complex engineering and scientific problems. 
 
 In my last year of graduate studies i completed my thesis on decision focused learning under the supervision of Dr. Ferdinando Fioretto 
