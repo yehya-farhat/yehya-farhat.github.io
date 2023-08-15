@@ -71,11 +71,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yehya-farhat # yehya-farhat
+github_username: #yehya-farhat # yehya-farhat
 gitlab_username: # your GitLab user name
-twitter_username: yehyafarhat # your Twitter handle
+twitter_username: #yehyafarhat # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: yehya-farhat # your LinkedIn user name
+linkedin_username: #yehya-farhat # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -94,7 +94,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: 13012765 # your stackoverflow id
+stackoverflow_id: #13012765 # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
