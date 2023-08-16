@@ -1,38 +1,33 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "name": "Yehya Farhat",
+    "email": "yehyafarhat [at] outlook [dot] com",
+    "language": "English, Arabic, French",
+    
+    
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "yehyafarhat",
+        "url": "https://twitter.com/yehyafarhat"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Syracuse University",
+      "position": "Research assistant",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2023-05-14",
+      "summary": "Researched surrogate machine learning models for hard combinatorial optimization problems, worked on an amortized method for predict-and-optimize to achieve cutting-edge solutions with a 98% inference time on small problem instances",
       "highlights": [
-        "Relativity"
+        "Machine Learning"
       ]
+    },
+    {
+      "name": "Qnovo",
+       "position": "Data Scientist"
     }
   ],
   "volunteer": [],
