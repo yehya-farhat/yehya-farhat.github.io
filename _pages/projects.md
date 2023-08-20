@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Coming Soon :smile:.
-nav: true
+nav: false
 nav_order: 2
 display_categories: []
 horizontal: true
