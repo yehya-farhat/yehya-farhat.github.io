@@ -6,6 +6,7 @@ img:
 instructorURL: https://ecs.syracuse.edu/faculty-staff/andrew-c-lee
 instructor: Prof. Andrew Lee
 url: 
+color: bg-warning text-dark
 personalRes: Course cohort consisted of 100+ students. Graded assignments and exams, hosted weekly office hours  
 courseDescription: Graduate-level core course, reasoning about programs through the specification, design, and realization of provably correct programs.
 semester: Fall 2022 Graduate Teaching Assistant

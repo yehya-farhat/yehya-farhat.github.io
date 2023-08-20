@@ -4,6 +4,7 @@
 
 // Typography
 
+
 p,
 h1,
 h2,
@@ -405,7 +406,7 @@ footer.sticky-bottom {
 }
 
 .tag-category-list {
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 1px solid #34495E;//var(--global-divider-color);
   text-align: center;
   padding-top: 1rem;
 
@@ -536,7 +537,7 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: #34495E ; //var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;

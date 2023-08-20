@@ -29,7 +29,7 @@ horizontal: false
         <h5 class="font-weight-bold">{{course.title}}</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark darken-1 text-uppercase align-middle" target="_blank">
+        <span class="badge font-weight-bold {{course.color}} darken-1 text-uppercase align-middle" target="_blank">
             {{course.coursenumber}}
         </span>     
       </div>
