@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: classes, workshops, and teaching material. 
+description: Classes, workshops, and teaching material. 
 nav: true
 nav_order: 5
 display_categories: [Syracuse University, University of College London (UCL)] 

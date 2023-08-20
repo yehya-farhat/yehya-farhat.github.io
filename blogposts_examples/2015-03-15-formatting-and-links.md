@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  a post with formatting and links and for testing
+title:  a post with formatting and links and for testing again
 date:   2015-03-15 16:40:16
 description: march & april, looking forward to summer
 tags: MachineLearning
