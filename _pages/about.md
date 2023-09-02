@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a <a href="https://www.syracuse.edu/">Syracuse University</a> graduate with an M.S. in Computer Science. My research interests are in combinatorial optimization and machine learning. I'm very much interested applying machine learning models to tackle complex engineering and scientific problems. 
+I'm a <a href="https://www.syracuse.edu/">Syracuse University</a> graduate with an M.S. in Computer Science. My research interests are in Combinatorial Optimization and Machine Learning. I'm very much interested in understanding the expressive power of ML models through a theoretical lense and applying these models to tackle complex engineering and scientific problems. 
 
 In my last year of graduate studies I completed my thesis on decision focused learning under the supervision of <a href="https://nandofioretto.github.io/">Prof. Ferdinando Fioretto</a> 
 
