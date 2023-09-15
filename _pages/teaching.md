@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Classes, workshops, and teaching material. 
 nav: true
 nav_order: 5
-display_categories: [Syracuse University, University of College London (UCL)] 
+display_categories: [Syracuse University] 
 horizontal: false
 ---
 
