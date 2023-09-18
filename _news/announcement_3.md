@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out my <a href="assets/pdf/Thesis_syracuse.pdf">Thesis</a> work on end-to-end constrained optimization learning 
+Check out my <a href="assets/pdf/Thesis_syracuse.pdf">Thesis</a> on end-to-end constrained optimization learning 
