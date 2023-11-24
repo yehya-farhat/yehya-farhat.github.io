@@ -38,8 +38,14 @@
               {% endif %}
               {% if content.department %}
               <tr>
-                <td style="vertical-align: top; text-align: center;" class="department"><i class="far fa-dot-circle icondepartment"></i></td>
+                <td style="vertical-align: top; text-align: center;" class="department"><i class="fa-solid fa-building"></i></td>
                 <td class="department">{{content.department}}</td>
+              </tr>
+              {% endif %}
+              {% if content.club %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="department"></td>
+                <td class="department">{{content.club}}</td>
               </tr>
               {% endif %}
             </tbody>

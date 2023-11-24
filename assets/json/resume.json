@@ -20,13 +20,13 @@
       "url": "https://www.syracuse.edu/",
       "area": "Computer Science",
       "studyType": "Master of Science",
-      "startDate": "2021-08-01",
-      "endDate": "2023-05-01",
+      "startDate": "2021",
+      "endDate": "2023",
       "score": "3.64",
       "courses": [
-        "Conducted independent research, composed and defended a thesis centered around the intersection of machine learning and combinatorial optimization under the supervision of  <a href = 'https://nandofioretto.github.io/'>Prof. Ferdinando Fioreto</a>",
-        "GPA: 3.64",
-        "Combinatorial Optimization and Machine Learning"
+        "Conducted independent research, composed and defended a thesis on End-to-End constrained optimization learning under the supervision of  <a href = 'https://nandofioretto.github.io/'>Prof. Ferdinando Fioreto</a>",
+        "GPA: 3.64"
+        
       ]
     },
 
