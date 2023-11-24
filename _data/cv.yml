@@ -3,94 +3,105 @@
   contents:
     - name: Full Name
       value: Yehya Farhat
-    
+    - name: email
+      value: yehyafarhat [at] outlook [dot] com
     - name: Languages
-      value: English, Arabic, French
+      value: English, Arabic, French (basic)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc.
+      institution: <a href="https://www.syracuse.edu/">Syracuse University</a>
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Computer Science
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - "GPA: 3.64"
+        - Graduate chess club president
+        
+    
+    - title: B.Sc.
+      institution: <a href="https://www.aub.edu.lb/">American University of Beirut (AUB)</a>
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Computer Science, Minor in Mathematics
+    
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: <a href = "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science">Syracuse University EECS </a>
+      year: 2023-09 - PRESENT
+      description: 
+          -  Studying the expressiveness of piece-wise linear functions attained by deep neural networks by examining the dynamics
+            of the linear regions attained from the learned function with respect to different losses, optimization algorithms, and
+            training cycle
+          - Investigating efficient algorithms for counting the number of linear regions attained by deep neural networks
+
+    - title: IT Consultant
+      department: <a href = "https://law.syracuse.edu/">Syracuse University Colllege of Law </a>
+      year: 2021-10 - 2023-05
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - Setup and configured proxy servers for 30+ RoomWizard devices used across the law school
+      - Proposed and wrote selenium scripts for kiosk machines used for room reservations
+      - Imaged all new devices and connected them to university servers. Maintained old devices and documented imaging policies and server migrations
+
+  
+
+
+    - title: Data Scientist
+      department: <a href="https://www.qnovo.com/">Qnovo</a>
+      year: 2022-06 - 2022-08
       description:
-        - Description 1.
-        - Description 2.
+            - "Operated as a full-stack engineer to design and build a battery testing platform and a corresponding user interface to query the database, reduced time spent on ad-hoc reporting from 2-3 days to 10 minutes"
+            - Cleaned and performed exploratory data analysis on 5M + rows of time-series data. Analysis was used to confirm the existence of a sensitivity problem in battery capacity estimates
+    
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Engineer
+      department: <a href= https://precast-group.com/>Precast FZCO</a>
+      year: 2021-04 - 2021-08
       description:
+            - "Devised a cloud-based Microarchitecture; employed Microsoft azure to create a correspondence between CMMS software and the clients IOT software, streamlined task creation between software systems, reduced task creation time to zero"
+            - "Designed and implemented an integration module to connect multiple ERP, IOT, and CMMS software, the module included an interface to allow clients to specify what information to streamline between softwares"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+
+- title: Leadership and Outreach
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: President and Co-Founder
+      institution: SU Graduate Chess Club 
+      year: 2022-02 - 2023-05
+      description: 
+          -  Co-Founded the graduate chess club at Syracuse University, served the role of Acting President. orchestrating the
+            club's growth, with over 150+ graduate participants during my tenure. Successfully facilitated a merger between the
+            graduate and undergraduate chess clubs, fostering a cohesive and inclusive chess community within Syracuse
+            University
+    - title: Math and Physics Tutor Volunteer
+      department: MMKN NGO
+      year: 2018-01 - 2019-07
+      description: 
+          -  Served as a part-time Physics and Mathematics teacher for students in grades 9 and 10. Specifically, I conducted afternoon classes catering to refugees and members of minority communities in Lebanon
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+  
+   
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - End-to-End Optimization learning
+        - AI for Science and Surrogate modelling 
+        - Theoretical Machine Learning
+    - title: Constrained Optimization
       items:
-        - Description 1.
-        - Description 2.
+        - Convex and Non-Convex Optimization
+        - Differential Optimization
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Football, Chess, Writing, Badminton
