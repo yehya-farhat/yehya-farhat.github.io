@@ -17,7 +17,7 @@
       description:
         - title: Computer Science
           contents:
-            - "GPA: 3.64"
+            - "GPA: 3.64 / 4.0"
         - Graduate chess club president
         
     
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research Scholar
       institution: <a href = "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science">Syracuse University EECS </a>
-      year: 2023-09 - PRESENT
+      year: 2023-09 - Current
       description: 
           -  Studying the expressiveness of piece-wise linear functions attained by deep neural networks by examining the dynamics
             of the linear regions attained from the learned function with respect to different losses, optimization algorithms, and
