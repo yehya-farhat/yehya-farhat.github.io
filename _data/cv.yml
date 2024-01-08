@@ -94,11 +94,13 @@
     - title: Machine Learning
       items: 
         - End-to-End Optimization learning
-        - AI for Science and Surrogate modelling 
+        - AI for Science & Engineering
         - Theoretical Machine Learning
+        - Safe & Trustworthy AI
     - title: Constrained Optimization
       items:
         - Convex and Non-Convex Optimization
+        - Large-Scale Optimization
         - Differential Optimization
 
 - title: Other Interests

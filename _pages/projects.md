@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Coming Soon :smile:.
-nav: false
+description: 
+nav: True
 nav_order: 2
-display_categories: []
-horizontal: true
+display_categories: [Machine Learning, Enterprise Solutions & Miscellaneous, Full-Stack]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
