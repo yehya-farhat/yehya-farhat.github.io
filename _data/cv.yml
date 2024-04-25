@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yehya Farhat
+      value: Yehya M. Farhat
     - name: email
       value: yehyafarhat [at] outlook [dot] com
     - name: Languages
@@ -11,6 +11,16 @@
 - title: Education
   type: time_table
   contents:
+
+    - title: Ph.D.
+      institution: <a href="https://www.rice.edu/">Rice University</a>
+      year: 2024 - 2028
+      description:
+        - title: Computer Science
+          contents: 
+            - "Starting Fall 2024"
+
+
     - title: M.Sc.
       institution: <a href="https://www.syracuse.edu/">Syracuse University</a>
       year: 2021 - 2023
@@ -43,13 +53,6 @@
     - title: IT Consultant
       department: <a href = "https://law.syracuse.edu/">Syracuse University Colllege of Law </a>
       year: 2021-10 - 2023-05
-      description:
-      - Setup and configured proxy servers for 30+ RoomWizard devices used across the law school
-      - Proposed and wrote selenium scripts for kiosk machines used for room reservations
-      - Imaged all new devices and connected them to university servers. Maintained old devices and documented imaging policies and server migrations
-
-  
-
 
     - title: Data Scientist
       department: <a href="https://www.qnovo.com/">Qnovo</a>

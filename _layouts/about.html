@@ -40,6 +40,29 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+        
+
+          <!-- Social -->
+          {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+
+            </div>
+          {%- endif %}
+
+
+        <!--Signup form-->
+        <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Newsletter</a></h2>
+        <iframe src="https://yehyafarhat.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
+
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
@@ -59,19 +82,6 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>

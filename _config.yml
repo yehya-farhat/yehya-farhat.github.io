@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Yehya  
-middle_name: 
-last_name: Farhat
+middle_name:
+last_name: Farhat, Ph.D.
 email: yehyafarhat@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Website; Scientific Machine Learning, Combinatorial Optimization, Large-Scale Optimization, Yehya Farhat.
+  Personal Website; Yehya Farhat, PhD
 footer_text: >
   Powered by <a href= 'https://github.com/alshedivat/al-folio'>al-folio </a> theme
 keywords: portfolio-website #jekyll, jekyll-theme, academic-website,   # add your own keywords or leave empty
@@ -92,7 +92,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: 13012765  # your stackoverflow id
+stackoverflow_id: #13012765  # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
@@ -105,7 +105,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best way to reach me is through email
+ 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -121,9 +121,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Atomic Science Blog  # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Personal Science blog
+blog_name: Polymath's archives  # blog_name will be displayed in your blog page
+blog_nav_title: Newsletter # your blog must have a title for it to be displayed in the nav bar
+blog_description: I dive into a variety of topics in AI, math, and science, where I break down complex ideas and highlight their real-world applications.
 permalink: /blog/:year/:title/
 
 # Pagination
