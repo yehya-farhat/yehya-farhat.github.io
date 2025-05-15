@@ -6,7 +6,7 @@ subtitle:  #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   address: 
 
@@ -17,11 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
 I am a first year PhD student in computer science at <a href="https://www.rice.edu/">Rice University</a>. I am advised by <a href="https://akyrillidis.github.io/about/">Anastasios Kyrillidis</a> and I am also part of the <a href="https://akyrillidis.github.io/aiowls/">AI OWLS</a> research cluster at Rice. 
 
  
-My broad research objective is to develop scalable and rigorous methods for explaining and enhancing AI models. Additionally, I am keenly interested in applying machine learning to overcome a broad spectrum of bottlenecks encountered in real-world engineering and scientific challenges.\\
+My broad research objective is to develop scalable and rigorous methods for explaining and enhancing AI models. Additionally, I am keenly interested in applying machine learning to overcome a broad spectrum of bottlenecks encountered in real-world engineering and scientific challenges.<br>
 I'm interested in the following research themes: <br>
 
 <ul>
