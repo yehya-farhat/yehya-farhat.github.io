@@ -24,7 +24,7 @@ My broad research objective is to develop scalable and rigorous methods for expl
 I'm interested in the following research themes: <br>
 
 <ul>
-<li><strong>Leveraging AI models to tackle complex engineering and scientific problems:</strong> </li><br>
+<li><strong>Leveraging AI models to tackle complex engineering and scientific problems</strong> </li><br>
 
 <li><strong>Understanding the expressive capabilities of deep learning models through a theoretical lens</strong> </li><br>
 
