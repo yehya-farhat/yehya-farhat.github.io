@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 description: Classes, workshops, and teaching material. 
-nav: true
+nav: false
 nav_order: 5
 display_categories: [Syracuse University] 
 horizontal: false

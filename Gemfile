@@ -20,6 +20,10 @@ group :jekyll_plugins do
     gem 'mini_racer' 
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'csv'
+    gem 'base64'
+    gem 'bigdecimal'
+    gem 'observer'
 end
 group :other_plugins do
     gem 'feedjira'

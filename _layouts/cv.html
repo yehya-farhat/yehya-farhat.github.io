@@ -2,21 +2,27 @@
 layout: default
 ---
 <!-- _layouts/cv.html -->
+ 
 {% unless site.data.resume %}
 <div class="post">
 
-  <header class="post-header">
+  <!--<header class="post-header">
     <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
-  </header>
+  </header>  -->
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}{% endif %}</h1>
+      {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+  </header> 
 
   <!--NO clue what this is-->
-  <h4>Table of contents</h4>
+<!--  <h4>Table of contents</h4>
   <ul class="timeline">
   {% for entry in site.data.cv %}
     <li><a href="#{{ entry.title }}"><span class="badge-toc">{{ entry.title }}</span></a></li>
   {% endfor %}
-  </ul>
+  </ul> 
 
   <article>
     <div class="cv">
@@ -99,6 +105,6 @@ layout: default
       {% endfor %}
       </div>
   </article>
-
+-->
 </div>
 {% endunless %}
