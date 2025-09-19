@@ -7,7 +7,7 @@ author = {Yehya Farhat, Hamza ElMokhtar Shili,  Fangshuo Liao, Chen Dun, Mirian 
 
 
 
-@article{submission,
+@article{NeurIPS,
 abbr  ={NeurIPS},
     Title = {Learning to Specialize: Joint Gating-Expert Training for Adaptive MoEs in Decentralized Settings},
     author = {Yehya Farhat, Hamza ElMokhtar Shili, Fangshuo Liao, Chen Dun, Mirian Hipolito Garcia, Guoqing Zheng, Ahmed Hassan Awadallah, Robert Sim, Dimitrios Dimitriadis, Anastasios Kyrillidis},
@@ -15,7 +15,7 @@ abbr  ={NeurIPS},
 
 
     pdf = {https://arxiv.org/abs/2306.08586},
-publisher={In Advances in Neural Information Processing Systems, 2025},
+school={In Advances in Neural Information Processing Systems},
  selected = {false},
  abstract = {Mixture-of-Experts (MoEs) achieve scalability by dynamically activating subsets of their components. Yet, understanding how expertise emerges through joint training of gating mechanisms and experts remains incomplete, especially in scenarios without clear task partitions. Motivated by inference costs and data heterogeneity, we study how joint training of gating functions and experts can dynamically allocate domain-specific expertise across multiple underlying data distributions. As an outcome of our framework, we develop an instance tailored specifically to decentralized training scenarios, introducing \textit{Dynamically Decentralized Orchestration of MoEs} or \texttt{DDOME}. \texttt{DDOME} leverages heterogeneity emerging from distributional shifts across decentralized data sources to specialize experts dynamically. By integrating a pretrained common expert to inform a gating function, \texttt{DDOME} achieves personalized expert subset selection on-the-fly, facilitating just-in-time personalization. We empirically validate \texttt{DDOME} within a Federated Learning (FL) context: \texttt{DDOME} attains from 4\% up to an 24\% accuracy improvement over state-of-the-art FL baselines in image and text classification tasks, while maintaining competitive zero-shot generalization capabilities. Furthermore, we provide theoretical insights confirming that the joint gating-experts training is critical for achieving meaningful expert specialization.}
 }
