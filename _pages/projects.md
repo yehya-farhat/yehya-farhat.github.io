@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: 
-nav: True
+nav: False
 nav_order: 2
 display_categories: [Machine Learning, Enterprise Solutions & Miscellaneous, Full-Stack]
 horizontal: false
