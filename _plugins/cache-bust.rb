@@ -26,7 +26,7 @@ module Jekyll
 
             def file_content
                 local_file_name = file_name.slice((file_name.index('assets/')..-1))
-                File.read(local_file_name)
+                File.read(File.join(Dir.pwd, local_file_name))
             end
 
             def file_contents
