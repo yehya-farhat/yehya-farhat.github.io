@@ -1,9 +1,14 @@
 github_users:
-  - yehya-farhat
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - youdanzh/Transformer-for-Therom-Proving
-  - yehya-farhat/rpms
-  - yehya-farhat/IMP
-  - yehya-farhat/cis667-secretary-problem
-  - yehya-farhat/AdvAttacks-DFL
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

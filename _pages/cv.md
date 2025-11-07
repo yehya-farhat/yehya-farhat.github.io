@@ -1,9 +1,11 @@
 ---
-layout: cv
+layout: cv_pdf_only
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 1
-cv_pdf: YehyaFarhat_CV.pdf
-description: 
+nav_order: 3
+cv_pdf: YehyaFarhat_CV.pdf # you can also use external links here
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
