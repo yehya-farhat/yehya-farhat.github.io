@@ -26,7 +26,7 @@ pagination:
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
     <br>
-    <h4>Find my newsletter on <a href="https://medium.com/@yehyafarhat_3213">Medium</a></h4>
+    <h4>Find my newsletter on<a href="https://medium.com/@yehyafarhat_3213"> Medium</a></h4>
   </div>
   {% endif %}
 
