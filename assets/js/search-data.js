@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-how-to-build-your-own-custom-optimizer-in-pytorch-step-by-step",
+        },{id: "post-do-neural-networks-have-closed-form-solutions",
+        
+          title: 'Do Neural Networks Have Closed-Form Solutions? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@yehyafarhat_3213/do-neural-networks-have-closed-form-solutions-8052ae0e505c?source=rss-98562e4d73b8------2", "_blank");
+          
+        },
+      },{id: "post-how-to-build-your-own-custom-optimizer-in-pytorch-step-by-step",
         
           title: 'How to Build Your Own Custom Optimizer in PyTorch (Step-by-Step) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
