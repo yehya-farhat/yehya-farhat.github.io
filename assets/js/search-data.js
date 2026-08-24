@@ -80,10 +80,12 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-new-preprint-twist-rigging-the-lottery-in-transformers-with-independent-subnetwork-training-we-propose-a-novel-distributed-training-algorithm-that-trains-subnetworks-in-parallel-to-uncover-high-performing-sparse-models-that-need-no-fine-tuning",
           title: 'Check out our new preprint TwIST: Rigging the Lottery in Transformers with Independent...',
           description: "",
-          section: "News",},{id: "news-announcement-i-ll-be-attending-neurips-2025-in-san-diego-from-december-2-8-lets-connect",
-          title: '📢 Announcement: I’ll be attending NeurIPS 2025 in San Diego from December 2–8....',
+          section: "News",},{id: "news-announcement-1-neurips2025",
+          title: 'Announcement_1 neurips2025',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1%20neurips2025/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
