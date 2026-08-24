@@ -25,11 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second year PhD student in the Computer Science department at <a href="https://www.rice.edu/">Rice University</a>, advised by <a href="https://akyrillidis.github.io/about/">Anastasios Kyrillidis</a>. I am also part of the <a href="https://kenkennedy.rice.edu/efficient-model-and-distributed-systems-design">AI OWLS</a> Ken Kennedy institute research cluster. 
+I am a third year PhD student in the Computer Science department at <a href="https://www.rice.edu/">Rice University</a>, advised by <a href="https://akyrillidis.github.io/about/">Anastasios Kyrillidis</a>. I am also part of the <a href="https://kenkennedy.rice.edu/efficient-model-and-distributed-systems-design">AI OWLS</a> Ken Kennedy institute research cluster. 
 
  
 My overarching research goal is to develop scalable, rigorous, and efficient methods for training and deploying large-scale AI systems. My work spans several interconnected areas: convex and non-convex optimization, distributed training, model compression, Mixture-of-Experts, and continual learning. I am also keenly interested in leveraging AI agents in real-world settings to solve critical bottlenecks in scientific and industrial domains.
 
-I was a research scholar at <a href="https://www.syracuse.edu/">Syracuse University</a>, where I worked with <a href="https://sites.google.com/view/gvenkata/home">Prof. Venkata Gandikota</a>. I previously earned an M.Sc. in Computer Science from <a href="https://www.syracuse.edu/">Syracuse University</a>, where I completed a thesis under the supervision of <a href="https://nandofioretto.github.io/">Prof. Ferdinando Fioretto</a>. Before that, I received a B.Sc. in Computer Science with a minor in Mathematics from the <a href="https://www.aub.edu.lb/">American University of Beirut (AUB)</a>.
+I interned at <a href="https://research.ibm.com/">IBM Research</a> this past summer. Prior to that, I was a Research Scholar at <a href="https://www.syracuse.edu/">Syracuse University</a>, where I worked with <a href="https://sites.google.com/view/gvenkata/home">Prof. Venkata Gandikota</a>. I also earned my M.Sc. in Computer Science from Syracuse University, completing my thesis under the supervision of <a href="https://nandofioretto.github.io/">Prof. Ferdinando Fioretto</a>. Before that, I received my B.Sc. in Computer Science, with a minor in Mathematics, from the <a href="https://www.aub.edu.lb/">American University of Beirut (AUB)</a>.
 
 In my free time, I enjoy playing chess, staying active by playing football, and hitting the gym. I am also an avid writer passionate about sharing intriguing scientific topics I encounter. To stay updated, you can find and follow me on Medium.
