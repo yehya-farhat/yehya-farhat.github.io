@@ -8,3 +8,6 @@ _site
 .tweet-cache
 vendor
 
+
+# Keep the CV PDF local; do not publish it to GitHub.
+/assets/pdf/YehyaFarhat_CV.pdf
