@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-newsletter",
           title: "Newsletter",
           description: "",
@@ -80,12 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-check-out-our-new-preprint-twist-rigging-the-lottery-in-transformers-with-independent-subnetwork-training-we-propose-a-novel-distributed-training-algorithm-that-trains-subnetworks-in-parallel-to-uncover-high-performing-sparse-models-that-need-no-fine-tuning",
           title: 'Check out our new preprint TwIST: Rigging the Lottery in Transformers with Independent...',
           description: "",
-          section: "News",},{id: "news-announcement-1-neurips2025",
-          title: 'Announcement_1 neurips2025',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1%20neurips2025/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
