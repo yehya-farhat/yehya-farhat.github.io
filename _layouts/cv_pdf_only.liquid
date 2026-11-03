@@ -1,8 +1,17 @@
 ---
 layout: none
 ---
-
-<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/YehyaFarhat_CV.pdf' | relative_url }}">
-
-
-
+{% assign pdf_url = page.cv_pdf | prepend: '/assets/pdf/' | relative_url %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow, noarchive">
+    <meta http-equiv="refresh" content="0; url={{ pdf_url | escape }}">
+    <title>{{ page.title | escape }}</title>
+  </head>
+  <body>
+    <p><a href="{{ pdf_url | escape }}" rel="nofollow">Open CV (PDF)</a></p>
+  </body>
+</html>

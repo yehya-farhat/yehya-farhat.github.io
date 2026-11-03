@@ -1,12 +1,8 @@
 ---
 layout: cv_pdf_only
-permalink: /cv/
+permalink: /CV!@Private/
 title: CV
 nav: false
-published: false
-nav_order: 3
-cv_pdf: YehyaFarhat_CV.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+sitemap: false
+cv_pdf: YehyaFarhat_CV.pdf
 ---
